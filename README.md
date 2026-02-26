@@ -1,7 +1,6 @@
 # Librarymanagementask
 
- Project Summary
-─────────────────────────────
+ <h2>Project Summary</h2>
 I have developed a complete Library Management System REST API using:
 • Java 17 + Spring Boot 3.2
 • Spring Data JPA + H2 In-Memory Database (MySQL-ready)
@@ -10,7 +9,6 @@ I have developed a complete Library Management System REST API using:
 • Global Exception Handler with meaningful error responses
 • CORS configured for Angular frontend integration
 
-The application runs immediately with no database setup required — just run:
   mvn spring-boot:run
 
 All API endpoints are working and tested:
